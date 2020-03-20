@@ -8,3 +8,4 @@
             android:centerInParent="true"
             android:gravity="center"
             />
+как сделать так чтобы кнопка стояла по центру?
